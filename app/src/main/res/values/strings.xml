@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdditionQuiz</string>
+    <string-array name="levels">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
